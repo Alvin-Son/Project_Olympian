@@ -1,0 +1,969 @@
+NOC,Team,Year,Sex,Medal,Count
+ALG,Algeria,2000,M,Silver,1
+ALG,Algeria,2008,M,Silver,1
+ALG,Algeria,2016,M,Silver,2
+ARG,Argentina,1924,M,Silver,1
+ARG,Argentina,1928,M,Silver,7
+ARG,Argentina,1952,M,Silver,1
+ARG,Argentina,1956,M,Silver,1
+ARG,Argentina,1964,M,Silver,1
+ARG,Argentina,1972,M,Silver,1
+ARG,Argentina,1996,M,Silver,19
+ARG,Argentina,2000,M,Silver,1
+ARG,Argentina,2016,M,Silver,1
+ARM,Armenia,1996,M,Silver,1
+ARM,Armenia,2012,M,Silver,1
+ARM,Armenia,2016,M,Silver,3
+ANZ,Australasia,1908,M,Silver,1
+AUS,Australia,1920,M,Silver,1
+AUS,Australia,1924,M,Silver,1
+AUS,Australia,1956,M,Silver,5
+AUS,Australia,1960,M,Silver,9
+AUS,Australia,1968,M,Silver,28
+AUS,Australia,1972,M,Silver,4
+AUS,Australia,1976,M,Silver,15
+AUS,Australia,1980,M,Silver,2
+AUS,Australia,1984,M,Silver,12
+AUS,Australia,1988,M,Silver,5
+AUS,Australia,1992,M,Silver,20
+AUS,Australia,1996,M,Silver,6
+AUS,Australia,2000,M,Silver,37
+AUS,Australia,2004,M,Silver,45
+AUS,Australia,2008,M,Silver,20
+AUS,Australia,2010,M,Silver,1
+AUS,Australia,2012,M,Silver,13
+AUS,Australia,2014,M,Silver,1
+AUS,Australia,2016,M,Silver,20
+AUT,Austria,1906,M,Silver,1
+AUT,Austria,1960,M,Silver,2
+AUT,Austria,1964,M,Silver,1
+AUT,Austria,1968,M,Silver,3
+AUT,Austria,1972,M,Silver,1
+AUT,Austria,1976,M,Silver,1
+AUT,Austria,1980,M,Silver,5
+AUT,Austria,1984,M,Silver,1
+AUT,Austria,1988,M,Silver,4
+AUT,Austria,1992,M,Silver,13
+AUT,Austria,1994,M,Silver,1
+AUT,Austria,1996,M,Silver,1
+AUT,Austria,1998,M,Silver,3
+AUT,Austria,2002,M,Silver,3
+AUT,Austria,2004,M,Silver,3
+AUT,Austria,2006,M,Silver,5
+AUT,Austria,2008,M,Silver,1
+AUT,Austria,2010,M,Silver,7
+AUT,Austria,2014,M,Silver,6
+AUT,Austria-1,1964,M,Silver,4
+AUT,Austria-1,1968,M,Silver,6
+AUT,Austria-1,2014,M,Silver,2
+AUT,Austria-2,1964,M,Silver,2
+AZE,Azerbaijan,1996,M,Silver,1
+AZE,Azerbaijan,2008,M,Silver,2
+AZE,Azerbaijan,2012,M,Silver,1
+AZE,Azerbaijan,2016,M,Silver,6
+BAH,Bahamas,2008,M,Silver,6
+BLR,Belarus,1994,M,Silver,1
+BLR,Belarus,1996,M,Silver,5
+BLR,Belarus,2000,M,Silver,1
+BLR,Belarus,2004,M,Silver,3
+BLR,Belarus,2006,M,Silver,1
+BLR,Belarus,2008,M,Silver,3
+BLR,Belarus,2010,M,Silver,1
+BLR,Belarus,2012,M,Silver,4
+BLR,Belarus,2016,M,Silver,2
+BEL,Belgium,1920,M,Silver,2
+BEL,Belgium,1924,M,Silver,1
+BEL,Belgium,1956,M,Silver,2
+BEL,Belgium,1960,M,Silver,2
+BEL,Belgium,1968,M,Silver,1
+BEL,Belgium,1972,M,Silver,2
+BEL,Belgium,1976,M,Silver,3
+BEL,Belgium,1984,M,Silver,2
+BEL,Belgium,1996,M,Silver,1
+BEL,Belgium,2000,M,Silver,3
+BEL,Belgium,2012,M,Silver,1
+BEL,Belgium,2016,M,Silver,17
+BOT,Botswana,2012,M,Silver,1
+BRA,Brazil,1968,M,Silver,1
+BRA,Brazil,1984,M,Silver,29
+BRA,Brazil,1988,M,Silver,17
+BRA,Brazil,1992,M,Silver,1
+BRA,Brazil,1996,M,Silver,1
+BRA,Brazil,2000,M,Silver,8
+BRA,Brazil,2008,M,Silver,14
+BRA,Brazil,2012,M,Silver,31
+BRA,Brazil,2016,M,Silver,6
+BRA,Brazil-1,2000,M,Silver,2
+BRA,Brazil-1,2008,M,Silver,2
+BRA,Brazil-1,2012,M,Silver,2
+BUL,Bulgaria,1956,M,Silver,1
+BUL,Bulgaria,1960,M,Silver,3
+BUL,Bulgaria,1964,M,Silver,4
+BUL,Bulgaria,1968,M,Silver,21
+BUL,Bulgaria,1972,M,Silver,8
+BUL,Bulgaria,1976,M,Silver,6
+BUL,Bulgaria,1980,M,Silver,24
+BUL,Bulgaria,1988,M,Silver,6
+BUL,Bulgaria,1992,M,Silver,4
+BUL,Bulgaria,1996,M,Silver,5
+BUL,Bulgaria,2000,M,Silver,5
+BUL,Bulgaria,2004,M,Silver,1
+CMR,Cameroon,1968,M,Silver,1
+CAN,Canada,1908,M,Silver,1
+CAN,Canada,1920,M,Silver,1
+CAN,Canada,1928,M,Silver,1
+CAN,Canada,1932,M,Silver,1
+CAN,Canada,1936,M,Silver,5
+CAN,Canada,1956,M,Silver,2
+CAN,Canada,1960,M,Silver,22
+CAN,Canada,1964,M,Silver,2
+CAN,Canada,1968,M,Silver,1
+CAN,Canada,1972,M,Silver,1
+CAN,Canada,1976,M,Silver,5
+CAN,Canada,1980,M,Silver,1
+CAN,Canada,1984,M,Silver,15
+CAN,Canada,1988,M,Silver,6
+CAN,Canada,1992,M,Silver,31
+CAN,Canada,1994,M,Silver,23
+CAN,Canada,1996,M,Silver,8
+CAN,Canada,1998,M,Silver,7
+CAN,Canada,2000,M,Silver,1
+CAN,Canada,2002,M,Silver,6
+CAN,Canada,2004,M,Silver,7
+CAN,Canada,2006,M,Silver,12
+CAN,Canada,2008,M,Silver,9
+CAN,Canada,2010,M,Silver,1
+CAN,Canada,2012,M,Silver,11
+CAN,Canada,2014,M,Silver,9
+CAN,Canada,2016,M,Silver,1
+CAN,Canada-1,2006,M,Silver,2
+CAN,Canada-1,2014,M,Silver,1
+USA,Chicago Athletic Association,1904,M,Silver,2
+CHI,Chile,1928,M,Silver,1
+CHI,Chile,1988,M,Silver,1
+CHI,Chile,2008,M,Silver,1
+CHN,China,1984,M,Silver,12
+CHN,China,1988,M,Silver,4
+CHN,China,1992,M,Silver,11
+CHN,China,1996,M,Silver,14
+CHN,China,1998,M,Silver,2
+CHN,China,2000,M,Silver,9
+CHN,China,2002,M,Silver,1
+CHN,China,2004,M,Silver,9
+CHN,China,2008,M,Silver,9
+CHN,China,2012,M,Silver,8
+CHN,China,2014,M,Silver,2
+CHN,China,2016,M,Silver,7
+CHN,China-1,1996,M,Silver,2
+CHN,China-1,2000,M,Silver,2
+CHN,China-1,2006,M,Silver,1
+CHN,China-1,2008,M,Silver,2
+CHN,China-2,2010,M,Silver,1
+CHN,China-2,2012,M,Silver,1
+TPE,Chinese Taipei,1960,M,Silver,1
+TPE,Chinese Taipei,1992,M,Silver,20
+TPE,Chinese Taipei,2004,M,Silver,4
+COL,Colombia,1972,M,Silver,1
+COL,Colombia,1984,M,Silver,1
+COL,Colombia,2008,M,Silver,1
+COL,Colombia,2012,M,Silver,2
+COL,Colombia,2016,M,Silver,1
+CIV,Cote d'Ivoire,1984,M,Silver,1
+CRO,Croatia,1992,M,Silver,12
+CRO,Croatia,1996,M,Silver,8
+CRO,Croatia,2004,M,Silver,3
+CRO,Croatia,2006,M,Silver,1
+CRO,Croatia,2008,M,Silver,1
+CRO,Croatia,2010,M,Silver,2
+CRO,Croatia,2012,M,Silver,4
+CRO,Croatia,2014,M,Silver,1
+CRO,Croatia,2016,M,Silver,15
+CUB,Cuba,1964,M,Silver,1
+CUB,Cuba,1968,M,Silver,6
+CUB,Cuba,1972,M,Silver,1
+CUB,Cuba,1976,M,Silver,4
+CUB,Cuba,1980,M,Silver,7
+CUB,Cuba,1992,M,Silver,10
+CUB,Cuba,1996,M,Silver,6
+CUB,Cuba,2000,M,Silver,31
+CUB,Cuba,2004,M,Silver,5
+CUB,Cuba,2008,M,Silver,28
+CUB,Cuba,2012,M,Silver,1
+CUB,Cuba,2016,M,Silver,1
+CYP,Cyprus,2012,M,Silver,1
+CZE,Czech Republic,1996,M,Silver,1
+CZE,Czech Republic,2000,M,Silver,3
+CZE,Czech Republic,2004,M,Silver,4
+CZE,Czech Republic,2006,M,Silver,1
+CZE,Czech Republic,2008,M,Silver,3
+CZE,Czech Republic,2012,M,Silver,2
+CZE,Czech Republic,2014,M,Silver,3
+CZE,Czech Republic,2016,M,Silver,2
+CZE,Czech Republic-1,1996,M,Silver,2
+TCH,Czechoslovakia,1932,M,Silver,1
+TCH,Czechoslovakia,1936,M,Silver,1
+TCH,Czechoslovakia,1948,M,Silver,2
+TCH,Czechoslovakia,1952,M,Silver,1
+TCH,Czechoslovakia,1956,M,Silver,1
+TCH,Czechoslovakia,1960,M,Silver,1
+TCH,Czechoslovakia,1964,M,Silver,31
+TCH,Czechoslovakia,1968,M,Silver,19
+TCH,Czechoslovakia,1972,M,Silver,20
+TCH,Czechoslovakia,1976,M,Silver,22
+TCH,Czechoslovakia,1980,M,Silver,1
+TCH,Czechoslovakia,1984,M,Silver,20
+TCH,Czechoslovakia,1988,M,Silver,3
+TCH,Czechoslovakia,1992,M,Silver,1
+TCH,Czechoslovakia-1,1992,M,Silver,2
+DEN,Denmark,1960,M,Silver,12
+DEN,Denmark,1964,M,Silver,1
+DEN,Denmark,1968,M,Silver,6
+DEN,Denmark,1980,M,Silver,2
+DEN,Denmark,1984,M,Silver,2
+DEN,Denmark,1988,M,Silver,1
+DEN,Denmark,1992,M,Silver,2
+DEN,Denmark,1996,M,Silver,1
+DEN,Denmark,2000,M,Silver,2
+DEN,Denmark,2004,M,Silver,1
+DEN,Denmark,2008,M,Silver,7
+DEN,Denmark,2012,M,Silver,4
+DEN,Denmark,2016,M,Silver,6
+ARG,Djinn,1948,M,Silver,1
+DOM,Dominican Republic,2008,M,Silver,1
+DOM,Dominican Republic,2012,M,Silver,1
+GDR,East Germany,1968,M,Silver,12
+GDR,East Germany,1972,M,Silver,36
+GDR,East Germany,1976,M,Silver,20
+GDR,East Germany,1980,M,Silver,59
+GDR,East Germany,1984,M,Silver,2
+GDR,East Germany,1988,M,Silver,36
+GDR,East Germany-1,1976,M,Silver,1
+GDR,East Germany-1,1984,M,Silver,2
+GDR,East Germany-1,1988,M,Silver,6
+GDR,East Germany-2,1980,M,Silver,2
+GDR,East Germany-2,1984,M,Silver,4
+GDR,East Germany-2,1988,M,Silver,2
+ECU,Ecuador,2008,M,Silver,1
+EGY,Egypt,1984,M,Silver,1
+EGY,Egypt,2004,M,Silver,1
+EGY,Egypt,2012,M,Silver,2
+NOR,Elisabeth X,1952,M,Silver,1
+EST,Estonia,1920,M,Silver,1
+EST,Estonia,1924,M,Silver,1
+EST,Estonia,1928,M,Silver,1
+EST,Estonia,2002,M,Silver,1
+EST,Estonia,2004,M,Silver,1
+EST,Estonia,2008,M,Silver,2
+EST,Estonia,2012,M,Silver,1
+ETH,Ethiopia,1968,M,Silver,1
+ETH,Ethiopia,2004,M,Silver,2
+ETH,Ethiopia,2008,M,Silver,1
+ETH,Ethiopia,2012,M,Silver,1
+ETH,Ethiopia,2016,M,Silver,1
+AUS,Falcon IV,1956,M,Silver,1
+FIN,Finland,1906,M,Silver,1
+FIN,Finland,1908,M,Silver,1
+FIN,Finland,1912,M,Silver,9
+FIN,Finland,1920,M,Silver,7
+FIN,Finland,1924,M,Silver,11
+FIN,Finland,1928,M,Silver,5
+FIN,Finland,1932,M,Silver,7
+FIN,Finland,1936,M,Silver,5
+FIN,Finland,1948,M,Silver,9
+FIN,Finland,1952,M,Silver,5
+FIN,Finland,1956,M,Silver,7
+FIN,Finland,1960,M,Silver,4
+FIN,Finland,1964,M,Silver,5
+FIN,Finland,1968,M,Silver,3
+FIN,Finland,1972,M,Silver,6
+FIN,Finland,1976,M,Silver,7
+FIN,Finland,1980,M,Silver,4
+FIN,Finland,1984,M,Silver,4
+FIN,Finland,1988,M,Silver,23
+FIN,Finland,1992,M,Silver,4
+FIN,Finland,1994,M,Silver,1
+FIN,Finland,1996,M,Silver,2
+FIN,Finland,1998,M,Silver,7
+FIN,Finland,2000,M,Silver,1
+FIN,Finland,2002,M,Silver,5
+FIN,Finland,2004,M,Silver,2
+FIN,Finland,2006,M,Silver,33
+FIN,Finland,2010,M,Silver,1
+FRA,France,1900,M,Silver,1
+FRA,France,1908,M,Silver,3
+FRA,France,1912,M,Silver,1
+FRA,France,1920,M,Silver,13
+FRA,France,1924,M,Silver,18
+FRA,France,1928,M,Silver,4
+FRA,France,1932,M,Silver,3
+FRA,France,1936,M,Silver,1
+FRA,France,1948,M,Silver,14
+FRA,France,1952,M,Silver,3
+FRA,France,1956,M,Silver,5
+FRA,France,1960,M,Silver,6
+FRA,France,1964,M,Silver,11
+FRA,France,1968,M,Silver,5
+FRA,France,1972,M,Silver,5
+FRA,France,1976,M,Silver,2
+FRA,France,1980,M,Silver,5
+FRA,France,1984,M,Silver,16
+FRA,France,1988,M,Silver,3
+FRA,France,1992,M,Silver,7
+FRA,France,1996,M,Silver,7
+FRA,France,1998,M,Silver,1
+FRA,France,2000,M,Silver,25
+FRA,France,2002,M,Silver,2
+FRA,France,2004,M,Silver,4
+FRA,France,2006,M,Silver,2
+FRA,France,2008,M,Silver,22
+FRA,France,2010,M,Silver,1
+FRA,France,2012,M,Silver,13
+FRA,France,2014,M,Silver,3
+FRA,France,2016,M,Silver,33
+FRA,France-1,1924,M,Silver,1
+FRA,France-1,1992,M,Silver,1
+FRA,France-1,2012,M,Silver,2
+GAB,Gabon,2012,M,Silver,1
+GEO,Georgia,2004,M,Silver,2
+GEO,Georgia,2012,M,Silver,3
+GEO,Georgia,2016,M,Silver,1
+GER,Germany,1896,M,Silver,1
+GER,Germany,1904,M,Silver,1
+GER,Germany,1906,M,Silver,1
+GER,Germany,1908,M,Silver,3
+GER,Germany,1912,M,Silver,2
+GER,Germany,1928,M,Silver,7
+GER,Germany,1932,M,Silver,4
+GER,Germany,1936,M,Silver,4
+GER,Germany,1952,M,Silver,2
+GER,Germany,1956,M,Silver,6
+GER,Germany,1960,M,Silver,23
+GER,Germany,1964,M,Silver,37
+GER,Germany,1992,M,Silver,20
+GER,Germany,1994,M,Silver,2
+GER,Germany,1996,M,Silver,17
+GER,Germany,1998,M,Silver,4
+GER,Germany,2000,M,Silver,17
+GER,Germany,2002,M,Silver,14
+GER,Germany,2004,M,Silver,30
+GER,Germany,2006,M,Silver,8
+GER,Germany,2008,M,Silver,12
+GER,Germany,2010,M,Silver,9
+GER,Germany,2012,M,Silver,10
+GER,Germany,2014,M,Silver,9
+GER,Germany,2016,M,Silver,27
+GER,Germany-1,1960,M,Silver,1
+GER,Germany-1,1964,M,Silver,1
+GER,Germany-1,1992,M,Silver,6
+GER,Germany-1,2004,M,Silver,2
+GER,Germany-1,2006,M,Silver,2
+GER,Germany-1,2010,M,Silver,4
+GER,Germany-2,1992,M,Silver,2
+GER,Germany-2,2010,M,Silver,2
+GHA,Ghana,1960,M,Silver,1
+USA,Glider,1964,M,Silver,2
+GBR,Great Britain,1896,M,Silver,1
+GBR,Great Britain,1904,M,Silver,1
+GBR,Great Britain,1906,M,Silver,7
+GBR,Great Britain,1908,M,Silver,10
+GBR,Great Britain,1912,M,Silver,2
+GBR,Great Britain,1920,M,Silver,4
+GBR,Great Britain,1924,M,Silver,3
+GBR,Great Britain,1928,M,Silver,2
+GBR,Great Britain,1932,M,Silver,6
+GBR,Great Britain,1936,M,Silver,3
+GBR,Great Britain,1948,M,Silver,2
+GBR,Great Britain,1956,M,Silver,3
+GBR,Great Britain,1960,M,Silver,7
+GBR,Great Britain,1964,M,Silver,15
+GBR,Great Britain,1968,M,Silver,2
+GBR,Great Britain,1972,M,Silver,8
+GBR,Great Britain,1976,M,Silver,15
+GBR,Great Britain,1980,M,Silver,13
+GBR,Great Britain,1984,M,Silver,14
+GBR,Great Britain,1988,M,Silver,13
+GBR,Great Britain,1992,M,Silver,2
+GBR,Great Britain,1996,M,Silver,15
+GBR,Great Britain,2000,M,Silver,13
+GBR,Great Britain,2004,M,Silver,14
+GBR,Great Britain,2008,M,Silver,17
+GBR,Great Britain,2012,M,Silver,16
+GBR,Great Britain,2014,M,Silver,4
+GBR,Great Britain,2016,M,Silver,35
+GBR,Great Britain-1,2004,M,Silver,1
+GBR,Great Britain-2,2012,M,Silver,2
+GRE,Greece,1906,M,Silver,2
+GRE,Greece,1908,M,Silver,3
+GRE,Greece,1972,M,Silver,2
+GRE,Greece,1984,M,Silver,1
+GRE,Greece,1996,M,Silver,3
+GRE,Greece,2000,M,Silver,3
+GRE,Greece,2004,M,Silver,2
+GRE,Greece,2008,M,Silver,3
+GRE,Greece,2016,M,Silver,1
+GRN,Grenada,2016,M,Silver,1
+GUA,Guatemala,2012,M,Silver,1
+HAI,Haiti,1928,M,Silver,1
+HKG,Hong Kong-2,2004,M,Silver,2
+HUN,Hungary,1900,M,Silver,2
+HUN,Hungary,1906,M,Silver,1
+HUN,Hungary,1908,M,Silver,3
+HUN,Hungary,1924,M,Silver,1
+HUN,Hungary,1928,M,Silver,1
+HUN,Hungary,1948,M,Silver,2
+HUN,Hungary,1952,M,Silver,4
+HUN,Hungary,1956,M,Silver,6
+HUN,Hungary,1960,M,Silver,11
+HUN,Hungary,1964,M,Silver,5
+HUN,Hungary,1968,M,Silver,13
+HUN,Hungary,1972,M,Silver,39
+HUN,Hungary,1976,M,Silver,4
+HUN,Hungary,1980,M,Silver,13
+HUN,Hungary,1988,M,Silver,4
+HUN,Hungary,1992,M,Silver,20
+HUN,Hungary,1996,M,Silver,9
+HUN,Hungary,2000,M,Silver,2
+HUN,Hungary,2004,M,Silver,7
+HUN,Hungary,2008,M,Silver,4
+HUN,Hungary,2012,M,Silver,6
+HUN,Hungary,2016,M,Silver,2
+ISL,Iceland,1956,M,Silver,1
+ISL,Iceland,2008,M,Silver,14
+IND,India,1960,M,Silver,13
+IND,India,2004,M,Silver,1
+IND,India,2012,M,Silver,2
+INA,Indonesia,1992,M,Silver,1
+INA,Indonesia,2000,M,Silver,1
+INA,Indonesia,2012,M,Silver,1
+INA,Indonesia,2016,M,Silver,1
+INA,Indonesia-1,1992,M,Silver,2
+INA,Indonesia-1,2000,M,Silver,1
+INA,Indonesia-1,2008,M,Silver,1
+IRI,Iran,1952,M,Silver,1
+IRI,Iran,1956,M,Silver,1
+IRI,Iran,1960,M,Silver,1
+IRI,Iran,1968,M,Silver,1
+IRI,Iran,1972,M,Silver,2
+IRI,Iran,1976,M,Silver,1
+IRI,Iran,1988,M,Silver,1
+IRI,Iran,1992,M,Silver,1
+IRI,Iran,1996,M,Silver,1
+IRI,Iran,2004,M,Silver,2
+IRI,Iran,2012,M,Silver,5
+IRI,Iran,2016,M,Silver,1
+IRL,Ireland,1980,M,Silver,2
+IRL,Ireland,1984,M,Silver,1
+IRL,Ireland,1992,M,Silver,1
+IRL,Ireland,2008,M,Silver,1
+IRL,Ireland,2012,M,Silver,1
+IRL,Ireland,2016,M,Silver,2
+ITA,Italy,1906,M,Silver,1
+ITA,Italy,1908,M,Silver,1
+ITA,Italy,1920,M,Silver,1
+ITA,Italy,1928,M,Silver,2
+ITA,Italy,1932,M,Silver,1
+ITA,Italy,1936,M,Silver,5
+ITA,Italy,1948,M,Silver,1
+ITA,Italy,1952,M,Silver,3
+ITA,Italy,1956,M,Silver,5
+ITA,Italy,1960,M,Silver,15
+ITA,Italy,1964,M,Silver,28
+ITA,Italy,1968,M,Silver,8
+ITA,Italy,1972,M,Silver,3
+ITA,Italy,1976,M,Silver,24
+ITA,Italy,1980,M,Silver,20
+ITA,Italy,1984,M,Silver,4
+ITA,Italy,1988,M,Silver,6
+ITA,Italy,1992,M,Silver,17
+ITA,Italy,1994,M,Silver,2
+ITA,Italy,1996,M,Silver,17
+ITA,Italy,1998,M,Silver,7
+ITA,Italy,2000,M,Silver,12
+ITA,Italy,2002,M,Silver,9
+ITA,Italy,2004,M,Silver,31
+ITA,Italy,2008,M,Silver,11
+ITA,Italy,2010,M,Silver,1
+ITA,Italy,2012,M,Silver,21
+ITA,Italy,2014,M,Silver,1
+ITA,Italy,2016,M,Silver,18
+ITA,Italy-1,1972,M,Silver,4
+ITA,Italy-1,1980,M,Silver,2
+ITA,Italy-1,2016,M,Silver,2
+ITA,Italy-2,1956,M,Silver,5
+ITA,Italy-2,1964,M,Silver,2
+ITA,Italy-2,1994,M,Silver,2
+JAM,Jamaica,1948,M,Silver,2
+JAM,Jamaica,1952,M,Silver,3
+JAM,Jamaica,1968,M,Silver,1
+JAM,Jamaica,1976,M,Silver,1
+JAM,Jamaica,1984,M,Silver,5
+JAM,Jamaica,1988,M,Silver,6
+JAM,Jamaica,1992,M,Silver,1
+JAM,Jamaica,1996,M,Silver,1
+JAM,Jamaica,2000,M,Silver,6
+JAM,Jamaica,2004,M,Silver,1
+JAM,Jamaica,2012,M,Silver,2
+JAM,Jamaica,2016,M,Silver,4
+JPN,Japan,1920,M,Silver,2
+JPN,Japan,1932,M,Silver,2
+JPN,Japan,1936,M,Silver,2
+JPN,Japan,1952,M,Silver,3
+JPN,Japan,1956,M,Silver,9
+JPN,Japan,1960,M,Silver,10
+JPN,Japan,1964,M,Silver,5
+JPN,Japan,1968,M,Silver,16
+JPN,Japan,1972,M,Silver,8
+JPN,Japan,1976,M,Silver,6
+JPN,Japan,1980,M,Silver,1
+JPN,Japan,1984,M,Silver,9
+JPN,Japan,1988,M,Silver,2
+JPN,Japan,1992,M,Silver,5
+JPN,Japan,1994,M,Silver,5
+JPN,Japan,1996,M,Silver,22
+JPN,Japan,1998,M,Silver,1
+JPN,Japan,2000,M,Silver,2
+JPN,Japan,2002,M,Silver,1
+JPN,Japan,2004,M,Silver,7
+JPN,Japan,2008,M,Silver,13
+JPN,Japan,2010,M,Silver,1
+JPN,Japan,2012,M,Silver,17
+JPN,Japan,2014,M,Silver,3
+JPN,Japan,2016,M,Silver,12
+KAZ,Kazakhstan,1994,M,Silver,2
+KAZ,Kazakhstan,1996,M,Silver,2
+KAZ,Kazakhstan,2000,M,Silver,4
+KAZ,Kazakhstan,2004,M,Silver,4
+KAZ,Kazakhstan,2008,M,Silver,2
+KAZ,Kazakhstan,2012,M,Silver,1
+KAZ,Kazakhstan,2016,M,Silver,3
+KEN,Kenya,1968,M,Silver,5
+KEN,Kenya,1972,M,Silver,3
+KEN,Kenya,1988,M,Silver,2
+KEN,Kenya,1992,M,Silver,4
+KEN,Kenya,1996,M,Silver,3
+KEN,Kenya,2000,M,Silver,3
+KEN,Kenya,2004,M,Silver,2
+KEN,Kenya,2008,M,Silver,1
+KEN,Kenya,2012,M,Silver,1
+KEN,Kenya,2016,M,Silver,3
+CUB,Kurush II,1948,M,Silver,1
+KGZ,Kyrgyzstan,2008,M,Silver,1
+GBR,Lady C,1964,M,Silver,2
+LAT,Latvia,1992,M,Silver,2
+LAT,Latvia,1996,M,Silver,1
+LAT,Latvia,2000,M,Silver,1
+LAT,Latvia,2004,M,Silver,3
+LAT,Latvia,2008,M,Silver,1
+LAT,Latvia,2010,M,Silver,1
+LAT,Latvia,2014,M,Silver,1
+LAT,Latvia-1,2010,M,Silver,2
+LAT,Latvia-1,2014,M,Silver,4
+LIB,Lebanon,1972,M,Silver,1
+LIE,Liechtenstein,1980,M,Silver,1
+LTU,Lithuania,2004,M,Silver,1
+LTU,Lithuania,2008,M,Silver,1
+LTU,Lithuania,2012,M,Silver,1
+LTU,Lithuania,2016,M,Silver,2
+LUX,Luxembourg,1992,M,Silver,2
+POR,Ma'Lindo,1960,M,Silver,2
+MAS,Malaysia,2008,M,Silver,1
+MAS,Malaysia,2012,M,Silver,1
+MAS,Malaysia,2016,M,Silver,4
+MAS,Malaysia-1,1996,M,Silver,2
+ITA,Merope III,1956,M,Silver,1
+MEX,Mexico,1968,M,Silver,2
+MEX,Mexico,1972,M,Silver,1
+MEX,Mexico,1980,M,Silver,1
+MEX,Mexico,1984,M,Silver,3
+MEX,Mexico,1992,M,Silver,1
+MEX,Mexico,2000,M,Silver,2
+MEX,Mexico,2004,M,Silver,1
+MEX,Mexico,2012,M,Silver,2
+MEX,Mexico,2016,M,Silver,1
+MDA,Moldova,1996,M,Silver,2
+MDA,Moldova,2000,M,Silver,1
+MGL,Mongolia,1968,M,Silver,1
+MGL,Mongolia,1972,M,Silver,1
+MGL,Mongolia,1976,M,Silver,1
+MGL,Mongolia,1980,M,Silver,2
+MGL,Mongolia,2012,M,Silver,2
+MAR,Morocco,1960,M,Silver,1
+MAR,Morocco,1992,M,Silver,1
+MAR,Morocco,2000,M,Silver,1
+MAR,Morocco,2008,M,Silver,1
+GBR,Moseley Wanderers,1900,M,Silver,1
+GER,Mutafo,1964,M,Silver,3
+NED,Nadine,2008,M,Silver,1
+NAM,Namibia,1992,M,Silver,2
+NAM,Namibia,1996,M,Silver,2
+NED,Netherlands,1964,M,Silver,5
+NED,Netherlands,1968,M,Silver,9
+NED,Netherlands,1972,M,Silver,1
+NED,Netherlands,1976,M,Silver,3
+NED,Netherlands,1980,M,Silver,2
+NED,Netherlands,1988,M,Silver,2
+NED,Netherlands,1992,M,Silver,17
+NED,Netherlands,1994,M,Silver,1
+NED,Netherlands,1996,M,Silver,3
+NED,Netherlands,1998,M,Silver,4
+NED,Netherlands,2000,M,Silver,6
+NED,Netherlands,2002,M,Silver,3
+NED,Netherlands,2004,M,Silver,32
+NED,Netherlands,2006,M,Silver,1
+NED,Netherlands,2012,M,Silver,22
+NED,Netherlands,2014,M,Silver,4
+NED,Netherlands,2016,M,Silver,3
+NZL,New Zealand,1972,M,Silver,2
+NZL,New Zealand,1976,M,Silver,1
+NZL,New Zealand,1984,M,Silver,1
+NZL,New Zealand,1988,M,Silver,4
+NZL,New Zealand,1992,M,Silver,5
+NZL,New Zealand,2004,M,Silver,2
+NZL,New Zealand,2008,M,Silver,2
+NZL,New Zealand,2012,M,Silver,2
+NZL,New Zealand,2016,M,Silver,3
+NIG,Niger,2016,M,Silver,1
+NGR,Nigeria,1984,M,Silver,1
+NGR,Nigeria,1992,M,Silver,7
+NGR,Nigeria,2008,M,Silver,16
+PRK,North Korea,1972,M,Silver,1
+PRK,North Korea,1976,M,Silver,1
+PRK,North Korea,1980,M,Silver,3
+PRK,North Korea,2004,M,Silver,1
+PRK,North Korea,2016,M,Silver,1
+NOR,Norway,1908,M,Silver,3
+NOR,Norway,1952,M,Silver,1
+NOR,Norway,1956,M,Silver,1
+NOR,Norway,1960,M,Silver,2
+NOR,Norway,1964,M,Silver,3
+NOR,Norway,1968,M,Silver,10
+NOR,Norway,1972,M,Silver,10
+NOR,Norway,1976,M,Silver,10
+NOR,Norway,1980,M,Silver,5
+NOR,Norway,1984,M,Silver,3
+NOR,Norway,1988,M,Silver,7
+NOR,Norway,1992,M,Silver,12
+NOR,Norway,1994,M,Silver,12
+NOR,Norway,1996,M,Silver,3
+NOR,Norway,1998,M,Silver,10
+NOR,Norway,2000,M,Silver,2
+NOR,Norway,2002,M,Silver,2
+NOR,Norway,2006,M,Silver,7
+NOR,Norway,2008,M,Silver,2
+NOR,Norway,2010,M,Silver,9
+NOR,Norway,2012,M,Silver,1
+NOR,Norway,2014,M,Silver,1
+PAK,Pakistan,1956,M,Silver,10
+PAK,Pakistan,1964,M,Silver,16
+PAK,Pakistan,1972,M,Silver,15
+PAR,Paraguay,2004,M,Silver,17
+PER,Peru,1984,M,Silver,1
+PER,Peru,1992,M,Silver,1
+PHI,Philippines,1964,M,Silver,1
+PHI,Philippines,1996,M,Silver,1
+POL,Poland,1924,M,Silver,3
+POL,Poland,1928,M,Silver,2
+POL,Poland,1932,M,Silver,3
+POL,Poland,1936,M,Silver,3
+POL,Poland,1952,M,Silver,1
+POL,Poland,1956,M,Silver,9
+POL,Poland,1960,M,Silver,9
+POL,Poland,1964,M,Silver,10
+POL,Poland,1968,M,Silver,2
+POL,Poland,1972,M,Silver,7
+POL,Poland,1976,M,Silver,29
+POL,Poland,1980,M,Silver,22
+POL,Poland,1988,M,Silver,9
+POL,Poland,1992,M,Silver,22
+POL,Poland,1996,M,Silver,7
+POL,Poland,2000,M,Silver,3
+POL,Poland,2002,M,Silver,1
+POL,Poland,2006,M,Silver,1
+POL,Poland,2008,M,Silver,10
+POL,Poland,2010,M,Silver,2
+POL,Poland,2016,M,Silver,1
+POL,Poland-1,2000,M,Silver,2
+POR,Portugal,1976,M,Silver,2
+POR,Portugal,2004,M,Silver,2
+POR,Portugal,2012,M,Silver,2
+PUR,Puerto Rico,1984,M,Silver,1
+PUR,Puerto Rico,2012,M,Silver,1
+QAT,Qatar,2016,M,Silver,1
+FRA,Racing Club de France,1900,M,Silver,1
+ROU,Romania,1956,M,Silver,2
+ROU,Romania,1960,M,Silver,1
+ROU,Romania,1964,M,Silver,3
+ROU,Romania,1968,M,Silver,7
+ROU,Romania,1972,M,Silver,8
+ROU,Romania,1976,M,Silver,20
+ROU,Romania,1980,M,Silver,7
+ROU,Romania,1984,M,Silver,12
+ROU,Romania,1988,M,Silver,10
+ROU,Romania,1992,M,Silver,6
+ROU,Romania,1996,M,Silver,3
+ROU,Romania,2000,M,Silver,1
+ROU,Romania,2004,M,Silver,3
+ROU,Romania,2012,M,Silver,4
+ROU,Romania,2016,M,Silver,2
+FRA,Rose Pompon,1920,M,Silver,1
+BEL,Royal Club Nautique de Gand,1908,M,Silver,1
+SWE,Rush VII,1964,M,Silver,3
+RUS,Russia,1912,M,Silver,1
+RUS,Russia,1994,M,Silver,6
+RUS,Russia,1996,M,Silver,31
+RUS,Russia,1998,M,Silver,22
+RUS,Russia,2000,M,Silver,36
+RUS,Russia,2002,M,Silver,1
+RUS,Russia,2004,M,Silver,11
+RUS,Russia,2006,M,Silver,7
+RUS,Russia,2008,M,Silver,14
+RUS,Russia,2010,M,Silver,3
+RUS,Russia,2012,M,Silver,10
+RUS,Russia,2014,M,Silver,13
+RUS,Russia,2016,M,Silver,9
+RUS,Russia-1,2002,M,Silver,1
+RUS,Russia-1,2006,M,Silver,4
+RUS,Russia-2,1994,M,Silver,2
+RUS,Russia-2,1998,M,Silver,2
+KSA,Saudi Arabia,2000,M,Silver,1
+SEN,Senegal,1988,M,Silver,1
+SRB,Serbia,2008,M,Silver,1
+SRB,Serbia,2016,M,Silver,14
+SCG,Serbia and Montenegro,1996,M,Silver,12
+SCG,Serbia and Montenegro,2004,M,Silver,12
+SGP,Singapore,1960,M,Silver,1
+DEN,Skum,1960,M,Silver,2
+SVK,Slovakia,1996,M,Silver,1
+SVK,Slovakia,2000,M,Silver,1
+SVK,Slovakia,2004,M,Silver,2
+SVK,Slovakia,2006,M,Silver,1
+SVK,Slovakia,2008,M,Silver,4
+SVK,Slovakia,2016,M,Silver,5
+SLO,Slovenia,1996,M,Silver,1
+SLO,Slovenia,2004,M,Silver,2
+SLO,Slovenia,2008,M,Silver,1
+SLO,Slovenia,2012,M,Silver,1
+SLO,Slovenia,2014,M,Silver,2
+SLO,Slovenia,2016,M,Silver,2
+RSA,South Africa,1920,M,Silver,2
+RSA,South Africa,1924,M,Silver,1
+RSA,South Africa,1960,M,Silver,1
+RSA,South Africa,1992,M,Silver,2
+RSA,South Africa,1996,M,Silver,1
+RSA,South Africa,2000,M,Silver,1
+RSA,South Africa,2004,M,Silver,2
+RSA,South Africa,2008,M,Silver,1
+RSA,South Africa,2012,M,Silver,1
+RSA,South Africa,2016,M,Silver,5
+KOR,South Korea,1956,M,Silver,1
+KOR,South Korea,1964,M,Silver,2
+KOR,South Korea,1968,M,Silver,1
+KOR,South Korea,1972,M,Silver,1
+KOR,South Korea,1976,M,Silver,1
+KOR,South Korea,1984,M,Silver,4
+KOR,South Korea,1988,M,Silver,20
+KOR,South Korea,1992,M,Silver,1
+KOR,South Korea,1996,M,Silver,9
+KOR,South Korea,1998,M,Silver,3
+KOR,South Korea,2000,M,Silver,22
+KOR,South Korea,2004,M,Silver,8
+KOR,South Korea,2006,M,Silver,2
+KOR,South Korea,2008,M,Silver,6
+KOR,South Korea,2010,M,Silver,9
+KOR,South Korea,2012,M,Silver,9
+KOR,South Korea,2014,M,Silver,3
+KOR,South Korea,2016,M,Silver,2
+KOR,South Korea-1,2000,M,Silver,2
+KOR,South Korea-2,1996,M,Silver,1
+URS,Soviet Union,1952,M,Silver,8
+URS,Soviet Union,1956,M,Silver,18
+URS,Soviet Union,1960,M,Silver,57
+URS,Soviet Union,1964,M,Silver,45
+URS,Soviet Union,1968,M,Silver,59
+URS,Soviet Union,1972,M,Silver,43
+URS,Soviet Union,1976,M,Silver,60
+URS,Soviet Union,1980,M,Silver,114
+URS,Soviet Union,1984,M,Silver,9
+URS,Soviet Union,1988,M,Silver,64
+URS,Soviet Union-1,1984,M,Silver,3
+URS,Soviet Union-2,1968,M,Silver,1
+URS,Soviet Union-2,1972,M,Silver,1
+URS,Soviet Union-2,1988,M,Silver,2
+ESP,Spain,1920,M,Silver,2
+ESP,Spain,1952,M,Silver,1
+ESP,Spain,1976,M,Silver,6
+ESP,Spain,1980,M,Silver,19
+ESP,Spain,1984,M,Silver,14
+ESP,Spain,1988,M,Silver,2
+ESP,Spain,1992,M,Silver,12
+ESP,Spain,1996,M,Silver,20
+ESP,Spain,2000,M,Silver,19
+ESP,Spain,2004,M,Silver,11
+ESP,Spain,2008,M,Silver,35
+ESP,Spain,2012,M,Silver,16
+ESP,Spain,2016,M,Silver,1
+SUD,Sudan,2008,M,Silver,1
+SWE,Sweden,1906,M,Silver,4
+SWE,Sweden,1912,M,Silver,11
+SWE,Sweden,1920,M,Silver,3
+SWE,Sweden,1924,M,Silver,3
+SWE,Sweden,1928,M,Silver,2
+SWE,Sweden,1932,M,Silver,1
+SWE,Sweden,1948,M,Silver,2
+SWE,Sweden,1952,M,Silver,5
+SWE,Sweden,1956,M,Silver,4
+SWE,Sweden,1960,M,Silver,2
+SWE,Sweden,1964,M,Silver,18
+SWE,Sweden,1968,M,Silver,8
+SWE,Sweden,1972,M,Silver,10
+SWE,Sweden,1980,M,Silver,2
+SWE,Sweden,1984,M,Silver,16
+SWE,Sweden,1988,M,Silver,3
+SWE,Sweden,1992,M,Silver,25
+SWE,Sweden,1996,M,Silver,22
+SWE,Sweden,1998,M,Silver,1
+SWE,Sweden,2000,M,Silver,18
+SWE,Sweden,2002,M,Silver,1
+SWE,Sweden,2004,M,Silver,4
+SWE,Sweden,2008,M,Silver,2
+SWE,Sweden,2012,M,Silver,15
+SWE,Sweden,2014,M,Silver,26
+SWE,Sweden,2016,M,Silver,3
+SWE,Sweden-2,2008,M,Silver,2
+SUI,Switzerland,1924,M,Silver,2
+SUI,Switzerland,1936,M,Silver,1
+SUI,Switzerland,1948,M,Silver,1
+SUI,Switzerland,1952,M,Silver,6
+SUI,Switzerland,1960,M,Silver,6
+SUI,Switzerland,1964,M,Silver,2
+SUI,Switzerland,1968,M,Silver,5
+SUI,Switzerland,1972,M,Silver,11
+SUI,Switzerland,1976,M,Silver,3
+SUI,Switzerland,1984,M,Silver,8
+SUI,Switzerland,1988,M,Silver,9
+SUI,Switzerland,1994,M,Silver,1
+SUI,Switzerland,1996,M,Silver,2
+SUI,Switzerland,1998,M,Silver,1
+SUI,Switzerland,2000,M,Silver,5
+SUI,Switzerland,2004,M,Silver,2
+SUI,Switzerland,2006,M,Silver,2
+SUI,Switzerland,2008,M,Silver,1
+SUI,Switzerland,2012,M,Silver,2
+SUI,Switzerland,2014,M,Silver,1
+SUI,Switzerland-1,1936,M,Silver,1
+SUI,Switzerland-1,1980,M,Silver,4
+SUI,Switzerland-1,1994,M,Silver,4
+SUI,Switzerland-1,1998,M,Silver,4
+SUI,Switzerland-1,2002,M,Silver,2
+SUI,Switzerland-1,2014,M,Silver,2
+SUI,Switzerland-2,1932,M,Silver,1
+SUI,Switzerland-2,1976,M,Silver,4
+SUI,Switzerland-2,1994,M,Silver,2
+POR,Symphony,1948,M,Silver,2
+TJK,Tajikistan,2008,M,Silver,1
+ARG,Tango,1960,M,Silver,3
+TAN,Tanzania,1980,M,Silver,2
+THA,Thailand,1984,M,Silver,1
+THA,Thailand,2004,M,Silver,1
+THA,Thailand,2008,M,Silver,1
+THA,Thailand,2012,M,Silver,1
+THA,Thailand,2016,M,Silver,1
+DEN,Tip,1956,M,Silver,2
+TGA,Tonga,1996,M,Silver,1
+TTO,Trinidad and Tobago,1964,M,Silver,1
+TTO,Trinidad and Tobago,2000,M,Silver,1
+TTO,Trinidad and Tobago,2008,M,Silver,1
+TTO,Trinidad and Tobago,2012,M,Silver,4
+TUN,Tunisia,1964,M,Silver,1
+TUN,Tunisia,1972,M,Silver,1
+TUR,Turkey,1960,M,Silver,2
+TUR,Turkey,1964,M,Silver,2
+TUR,Turkey,1972,M,Silver,1
+TUR,Turkey,1988,M,Silver,1
+TUR,Turkey,1992,M,Silver,2
+TUR,Turkey,1996,M,Silver,1
+TUR,Turkey,2004,M,Silver,3
+TUR,Turkey,2016,M,Silver,3
+UGA,Uganda,1968,M,Silver,1
+UGA,Uganda,1972,M,Silver,1
+UGA,Uganda,1980,M,Silver,1
+UKR,Ukraine,2000,M,Silver,15
+UKR,Ukraine,2004,M,Silver,4
+UKR,Ukraine,2008,M,Silver,3
+UKR,Ukraine,2012,M,Silver,3
+UKR,Ukraine,2016,M,Silver,4
+EUN,Unified Team,1992,M,Silver,36
+EUN,Unified Team-2,1992,M,Silver,1
+USA,United States,1896,M,Silver,4
+USA,United States,1900,M,Silver,5
+USA,United States,1904,M,Silver,9
+USA,United States,1906,M,Silver,6
+USA,United States,1908,M,Silver,13
+USA,United States,1912,M,Silver,13
+USA,United States,1920,M,Silver,27
+USA,United States,1924,M,Silver,18
+USA,United States,1928,M,Silver,11
+USA,United States,1932,M,Silver,13
+USA,United States,1936,M,Silver,11
+USA,United States,1948,M,Silver,10
+USA,United States,1952,M,Silver,18
+USA,United States,1956,M,Silver,47
+USA,United States,1960,M,Silver,21
+USA,United States,1964,M,Silver,23
+USA,United States,1968,M,Silver,26
+USA,United States,1972,M,Silver,66
+USA,United States,1976,M,Silver,31
+USA,United States,1980,M,Silver,1
+USA,United States,1984,M,Silver,72
+USA,United States,1988,M,Silver,46
+USA,United States,1992,M,Silver,32
+USA,United States,1994,M,Silver,5
+USA,United States,1996,M,Silver,29
+USA,United States,2000,M,Silver,29
+USA,United States,2002,M,Silver,30
+USA,United States,2004,M,Silver,33
+USA,United States,2006,M,Silver,4
+USA,United States,2008,M,Silver,29
+USA,United States,2010,M,Silver,36
+USA,United States,2012,M,Silver,27
+USA,United States,2014,M,Silver,6
+USA,United States,2016,M,Silver,24
+ISV,United States Virgin Islands,1988,M,Silver,1
+USA,United States-1,1984,M,Silver,1
+USA,United States-1,1998,M,Silver,2
+USA,United States-1,2002,M,Silver,4
+USA,United States-1,2006,M,Silver,1
+USA,United States-1,2010,M,Silver,1
+USA,United States-1,2016,M,Silver,1
+USA,United States-2,2002,M,Silver,2
+URU,Uruguay,2000,M,Silver,1
+UZB,Uzbekistan,1996,M,Silver,1
+UZB,Uzbekistan,2000,M,Silver,1
+UZB,Uzbekistan,2004,M,Silver,1
+UZB,Uzbekistan,2008,M,Silver,2
+UZB,Uzbekistan,2016,M,Silver,2
+VEN,Venezuela,1976,M,Silver,1
+VEN,Venezuela,1980,M,Silver,1
+VIE,Vietnam,2008,M,Silver,1
+VIE,Vietnam,2016,M,Silver,1
+DEN,Web II,1960,M,Silver,3
+FRG,West Germany,1968,M,Silver,14
+FRG,West Germany,1972,M,Silver,12
+FRG,West Germany,1976,M,Silver,21
+FRG,West Germany,1984,M,Silver,53
+FRG,West Germany,1988,M,Silver,40
+FRG,West Germany-1,1968,M,Silver,2
+FRG,West Germany-1,1972,M,Silver,4
+FRG,West Germany-1,1976,M,Silver,4
+YUG,Yugoslavia,1948,M,Silver,1
+YUG,Yugoslavia,1952,M,Silver,3
+YUG,Yugoslavia,1956,M,Silver,6
+YUG,Yugoslavia,1960,M,Silver,1
+YUG,Yugoslavia,1964,M,Silver,11
+YUG,Yugoslavia,1968,M,Silver,13
+YUG,Yugoslavia,1972,M,Silver,1
+YUG,Yugoslavia,1976,M,Silver,14
+YUG,Yugoslavia,1980,M,Silver,13
+YUG,Yugoslavia,1984,M,Silver,6
+YUG,Yugoslavia,1988,M,Silver,19
+ZAM,Zambia,1996,M,Silver,1
