@@ -1,0 +1,605 @@
+NOC,Team,Year,Sex,Medal,Count
+ALG,Algeria,2008,F,Bronze,1
+ARG,Argentina,2000,F,Bronze,1
+ARG,Argentina,2004,F,Bronze,19
+ARG,Argentina,2008,F,Bronze,17
+ARM,Armenia,2012,F,Bronze,1
+AUS,Australia,1948,F,Bronze,2
+AUS,Australia,1952,F,Bronze,1
+AUS,Australia,1956,F,Bronze,3
+AUS,Australia,1960,F,Bronze,1
+AUS,Australia,1964,F,Bronze,3
+AUS,Australia,1968,F,Bronze,2
+AUS,Australia,1972,F,Bronze,2
+AUS,Australia,1980,F,Bronze,1
+AUS,Australia,1984,F,Bronze,8
+AUS,Australia,1988,F,Bronze,3
+AUS,Australia,1992,F,Bronze,7
+AUS,Australia,1996,F,Bronze,39
+AUS,Australia,1998,F,Bronze,1
+AUS,Australia,2000,F,Bronze,21
+AUS,Australia,2004,F,Bronze,12
+AUS,Australia,2006,F,Bronze,1
+AUS,Australia,2008,F,Bronze,41
+AUS,Australia,2012,F,Bronze,32
+AUS,Australia,2014,F,Bronze,1
+AUS,Australia,2016,F,Bronze,5
+AUS,Australia-1,1996,F,Bronze,2
+AUT,Austria,1964,F,Bronze,1
+AUT,Austria,1968,F,Bronze,2
+AUT,Austria,1972,F,Bronze,2
+AUT,Austria,1992,F,Bronze,2
+AUT,Austria,1994,F,Bronze,1
+AUT,Austria,1996,F,Bronze,1
+AUT,Austria,1998,F,Bronze,3
+AUT,Austria,2002,F,Bronze,1
+AUT,Austria,2006,F,Bronze,2
+AUT,Austria,2008,F,Bronze,2
+AUT,Austria,2010,F,Bronze,3
+AUT,Austria,2014,F,Bronze,2
+AUT,Austria,2016,F,Bronze,1
+AZE,Azerbaijan,2004,F,Bronze,2
+AZE,Azerbaijan,2008,F,Bronze,1
+AZE,Azerbaijan,2012,F,Bronze,1
+AZE,Azerbaijan,2016,F,Bronze,3
+BAH,Bahamas,2004,F,Bronze,1
+BRN,Bahrain,2012,F,Bronze,1
+BLR,Belarus,1996,F,Bronze,5
+BLR,Belarus,2000,F,Bronze,3
+BLR,Belarus,2004,F,Bronze,4
+BLR,Belarus,2008,F,Bronze,11
+BLR,Belarus,2010,F,Bronze,1
+BLR,Belarus,2012,F,Bronze,8
+BLR,Belarus,2014,F,Bronze,1
+BLR,Belarus,2016,F,Bronze,5
+BEL,Belgium,1984,F,Bronze,2
+BEL,Belgium,1992,F,Bronze,1
+BEL,Belgium,1996,F,Bronze,1
+BEL,Belgium,2000,F,Bronze,4
+BEL,Belgium,2004,F,Bronze,1
+BEL,Belgium,2012,F,Bronze,2
+BEL,Belgium,2016,F,Bronze,1
+BRA,Brazil,1996,F,Bronze,12
+BRA,Brazil,2000,F,Bronze,24
+BRA,Brazil,2008,F,Bronze,4
+BRA,Brazil,2012,F,Bronze,3
+BRA,Brazil,2016,F,Bronze,2
+BRA,Brazil-1,2012,F,Bronze,2
+BRA,Brazil-2,2000,F,Bronze,2
+BUL,Bulgaria,1972,F,Bronze,2
+BUL,Bulgaria,1976,F,Bronze,13
+BUL,Bulgaria,1980,F,Bronze,17
+BUL,Bulgaria,1988,F,Bronze,11
+BUL,Bulgaria,1992,F,Bronze,2
+BUL,Bulgaria,1996,F,Bronze,1
+BUL,Bulgaria,2002,F,Bronze,2
+BUL,Bulgaria,2004,F,Bronze,8
+BUL,Bulgaria,2016,F,Bronze,6
+CAN,Canada,1928,F,Bronze,1
+CAN,Canada,1932,F,Bronze,1
+CAN,Canada,1936,F,Bronze,2
+CAN,Canada,1956,F,Bronze,1
+CAN,Canada,1964,F,Bronze,1
+CAN,Canada,1968,F,Bronze,4
+CAN,Canada,1972,F,Bronze,1
+CAN,Canada,1976,F,Bronze,14
+CAN,Canada,1984,F,Bronze,10
+CAN,Canada,1988,F,Bronze,12
+CAN,Canada,1992,F,Bronze,3
+CAN,Canada,1996,F,Bronze,7
+CAN,Canada,1998,F,Bronze,5
+CAN,Canada,2000,F,Bronze,20
+CAN,Canada,2002,F,Bronze,13
+CAN,Canada,2004,F,Bronze,3
+CAN,Canada,2006,F,Bronze,10
+CAN,Canada,2008,F,Bronze,4
+CAN,Canada,2010,F,Bronze,3
+CAN,Canada,2012,F,Bronze,27
+CAN,Canada,2014,F,Bronze,1
+CAN,Canada,2016,F,Bronze,53
+CAN,Canada-1,1988,F,Bronze,1
+CAN,Canada-1,1992,F,Bronze,1
+CAN,Canada-1,1994,F,Bronze,1
+CHN,China,1984,F,Bronze,32
+CHN,China,1988,F,Bronze,23
+CHN,China,1992,F,Bronze,7
+CHN,China,1994,F,Bronze,2
+CHN,China,1996,F,Bronze,10
+CHN,China,1998,F,Bronze,1
+CHN,China,2000,F,Bronze,10
+CHN,China,2002,F,Bronze,2
+CHN,China,2004,F,Bronze,8
+CHN,China,2006,F,Bronze,3
+CHN,China,2008,F,Bronze,39
+CHN,China,2010,F,Bronze,6
+CHN,China,2012,F,Bronze,13
+CHN,China,2016,F,Bronze,21
+CHN,China-1,2000,F,Bronze,2
+CHN,China-1,2002,F,Bronze,1
+CHN,China-1,2008,F,Bronze,3
+CHN,China-1,2016,F,Bronze,1
+CHN,China-2,1992,F,Bronze,2
+CHN,China-2,1996,F,Bronze,1
+CHN,China-2,2004,F,Bronze,2
+CHN,China-2,2008,F,Bronze,4
+CHN,China-3,2006,F,Bronze,1
+TPE,Chinese Taipei,1968,F,Bronze,1
+TPE,Chinese Taipei,2000,F,Bronze,3
+TPE,Chinese Taipei,2004,F,Bronze,3
+TPE,Chinese Taipei,2008,F,Bronze,2
+TPE,Chinese Taipei,2012,F,Bronze,1
+TPE,Chinese Taipei,2016,F,Bronze,4
+DEN,Clearwater,2008,F,Bronze,1
+COL,Colombia,1992,F,Bronze,1
+COL,Colombia,2004,F,Bronze,2
+COL,Colombia,2008,F,Bronze,1
+COL,Colombia,2012,F,Bronze,2
+COL,Colombia,2016,F,Bronze,1
+CRC,Costa Rica,2000,F,Bronze,2
+CIV,Cote d'Ivoire,2016,F,Bronze,1
+CRO,Croatia,2008,F,Bronze,3
+CRO,Croatia,2012,F,Bronze,1
+CRO,Croatia,2016,F,Bronze,1
+CUB,Cuba,1972,F,Bronze,5
+CUB,Cuba,1992,F,Bronze,4
+CUB,Cuba,1996,F,Bronze,3
+CUB,Cuba,2000,F,Bronze,1
+CUB,Cuba,2004,F,Bronze,17
+CUB,Cuba,2008,F,Bronze,3
+CUB,Cuba,2016,F,Bronze,1
+CZE,Czech Republic,1996,F,Bronze,2
+CZE,Czech Republic,1998,F,Bronze,1
+CZE,Czech Republic,2004,F,Bronze,2
+CZE,Czech Republic,2010,F,Bronze,2
+CZE,Czech Republic,2012,F,Bronze,2
+CZE,Czech Republic,2016,F,Bronze,3
+CZE,Czech Republic-1,2016,F,Bronze,2
+TCH,Czechoslovakia,1952,F,Bronze,2
+TCH,Czechoslovakia,1968,F,Bronze,1
+TCH,Czechoslovakia,1972,F,Bronze,2
+TCH,Czechoslovakia,1976,F,Bronze,1
+TCH,Czechoslovakia,1980,F,Bronze,1
+TCH,Czechoslovakia,1984,F,Bronze,2
+DEN,Denmark,1948,F,Bronze,1
+DEN,Denmark,1980,F,Bronze,1
+DEN,Denmark,1984,F,Bronze,5
+DEN,Denmark,2004,F,Bronze,4
+DEN,Denmark,2008,F,Bronze,1
+DEN,Denmark,2016,F,Bronze,9
+DEN,Denmark-1,2012,F,Bronze,1
+DEN,Denmark-2,2004,F,Bronze,1
+DEN,Digby,2008,F,Bronze,1
+GDR,East Germany,1968,F,Bronze,7
+GDR,East Germany,1972,F,Bronze,8
+GDR,East Germany,1976,F,Bronze,20
+GDR,East Germany,1980,F,Bronze,38
+GDR,East Germany,1984,F,Bronze,2
+GDR,East Germany,1988,F,Bronze,29
+GDR,East Germany-1,1972,F,Bronze,1
+GDR,East Germany-2,1976,F,Bronze,1
+EGY,Egypt,2016,F,Bronze,2
+ETH,Ethiopia,1996,F,Bronze,1
+ETH,Ethiopia,2000,F,Bronze,1
+ETH,Ethiopia,2004,F,Bronze,2
+ETH,Ethiopia,2008,F,Bronze,1
+ETH,Ethiopia,2012,F,Bronze,2
+ETH,Ethiopia,2016,F,Bronze,3
+FIN,Finland,1952,F,Bronze,1
+FIN,Finland,1960,F,Bronze,4
+FIN,Finland,1964,F,Bronze,4
+FIN,Finland,1972,F,Bronze,1
+FIN,Finland,1980,F,Bronze,2
+FIN,Finland,1984,F,Bronze,4
+FIN,Finland,1988,F,Bronze,5
+FIN,Finland,1994,F,Bronze,2
+FIN,Finland,1998,F,Bronze,20
+FIN,Finland,2006,F,Bronze,2
+FIN,Finland,2010,F,Bronze,24
+FIN,Finland,2012,F,Bronze,3
+FIN,Finland,2016,F,Bronze,1
+FRA,France,1948,F,Bronze,1
+FRA,France,1956,F,Bronze,1
+FRA,France,1968,F,Bronze,1
+FRA,France,1972,F,Bronze,1
+FRA,France,1976,F,Bronze,1
+FRA,France,1980,F,Bronze,1
+FRA,France,1984,F,Bronze,8
+FRA,France,1988,F,Bronze,1
+FRA,France,1992,F,Bronze,4
+FRA,France,1994,F,Bronze,4
+FRA,France,1996,F,Bronze,6
+FRA,France,1998,F,Bronze,1
+FRA,France,2000,F,Bronze,5
+FRA,France,2004,F,Bronze,13
+FRA,France,2006,F,Bronze,5
+FRA,France,2008,F,Bronze,7
+FRA,France,2010,F,Bronze,3
+FRA,France,2012,F,Bronze,12
+FRA,France,2014,F,Bronze,2
+FRA,France,2016,F,Bronze,2
+FRA,France-1,1998,F,Bronze,1
+GEO,Georgia,2008,F,Bronze,1
+GER,Germany,1928,F,Bronze,4
+GER,Germany,1932,F,Bronze,1
+GER,Germany,1936,F,Bronze,3
+GER,Germany,1952,F,Bronze,1
+GER,Germany,1956,F,Bronze,2
+GER,Germany,1960,F,Bronze,13
+GER,Germany,1964,F,Bronze,4
+GER,Germany,1992,F,Bronze,32
+GER,Germany,1994,F,Bronze,4
+GER,Germany,1996,F,Bronze,16
+GER,Germany,1998,F,Bronze,5
+GER,Germany,2000,F,Bronze,35
+GER,Germany,2002,F,Bronze,4
+GER,Germany,2004,F,Bronze,32
+GER,Germany,2006,F,Bronze,3
+GER,Germany,2008,F,Bronze,27
+GER,Germany,2010,F,Bronze,7
+GER,Germany,2012,F,Bronze,4
+GER,Germany,2014,F,Bronze,6
+GER,Germany,2016,F,Bronze,23
+GER,Germany-1,1998,F,Bronze,1
+GER,Germany-1,2010,F,Bronze,1
+GER,Germany-1,2014,F,Bronze,1
+GER,Germany-2,2002,F,Bronze,2
+GBR,Great Britain,1932,F,Bronze,2
+GBR,Great Britain,1952,F,Bronze,5
+GBR,Great Britain,1956,F,Bronze,1
+GBR,Great Britain,1960,F,Bronze,3
+GBR,Great Britain,1964,F,Bronze,4
+GBR,Great Britain,1980,F,Bronze,8
+GBR,Great Britain,1984,F,Bronze,10
+GBR,Great Britain,1988,F,Bronze,2
+GBR,Great Britain,1992,F,Bronze,22
+GBR,Great Britain,1994,F,Bronze,1
+GBR,Great Britain,1996,F,Bronze,1
+GBR,Great Britain,2000,F,Bronze,4
+GBR,Great Britain,2002,F,Bronze,1
+GBR,Great Britain,2004,F,Bronze,7
+GBR,Great Britain,2008,F,Bronze,12
+GBR,Great Britain,2012,F,Bronze,21
+GBR,Great Britain,2014,F,Bronze,5
+GBR,Great Britain,2016,F,Bronze,15
+GBR,Great Britain-2,2000,F,Bronze,1
+GRE,Greece,2000,F,Bronze,7
+GRE,Greece,2004,F,Bronze,1
+GRE,Greece,2008,F,Bronze,4
+GRE,Greece,2012,F,Bronze,2
+GRE,Greece,2016,F,Bronze,1
+HKG,Hong Kong,2012,F,Bronze,1
+HUN,Hungary,1952,F,Bronze,1
+HUN,Hungary,1956,F,Bronze,2
+HUN,Hungary,1960,F,Bronze,2
+HUN,Hungary,1964,F,Bronze,1
+HUN,Hungary,1968,F,Bronze,3
+HUN,Hungary,1972,F,Bronze,8
+HUN,Hungary,1976,F,Bronze,21
+HUN,Hungary,1980,F,Bronze,7
+HUN,Hungary,1988,F,Bronze,5
+HUN,Hungary,1992,F,Bronze,2
+HUN,Hungary,1996,F,Bronze,18
+HUN,Hungary,2000,F,Bronze,1
+HUN,Hungary,2008,F,Bronze,1
+HUN,Hungary,2012,F,Bronze,2
+HUN,Hungary,2016,F,Bronze,2
+HUN,Hungary-1,1952,F,Bronze,1
+ISL,Iceland,2000,F,Bronze,1
+IND,India,2000,F,Bronze,1
+IND,India,2012,F,Bronze,2
+IND,India,2016,F,Bronze,1
+IOA,Individual Olympic Athletes,1992,F,Bronze,1
+INA,Indonesia,2000,F,Bronze,2
+INA,Indonesia,2008,F,Bronze,1
+IRI,Iran,2016,F,Bronze,1
+IRL,Ireland,1996,F,Bronze,1
+ISR,Israel,2016,F,Bronze,1
+ITA,Italy,1960,F,Bronze,4
+ITA,Italy,1964,F,Bronze,1
+ITA,Italy,1972,F,Bronze,3
+ITA,Italy,1984,F,Bronze,1
+ITA,Italy,1992,F,Bronze,4
+ITA,Italy,1994,F,Bronze,7
+ITA,Italy,1996,F,Bronze,5
+ITA,Italy,1998,F,Bronze,4
+ITA,Italy,2000,F,Bronze,3
+ITA,Italy,2002,F,Bronze,3
+ITA,Italy,2004,F,Bronze,2
+ITA,Italy,2006,F,Bronze,8
+ITA,Italy,2008,F,Bronze,7
+ITA,Italy,2010,F,Bronze,1
+ITA,Italy,2012,F,Bronze,7
+ITA,Italy,2014,F,Bronze,8
+ITA,Italy,2016,F,Bronze,2
+ITA,Italy-1,2002,F,Bronze,1
+ITA,Italy-1,2006,F,Bronze,2
+JAM,Jamaica,1980,F,Bronze,1
+JAM,Jamaica,1984,F,Bronze,2
+JAM,Jamaica,1992,F,Bronze,1
+JAM,Jamaica,1996,F,Bronze,6
+JAM,Jamaica,2000,F,Bronze,2
+JAM,Jamaica,2004,F,Bronze,6
+JAM,Jamaica,2008,F,Bronze,5
+JAM,Jamaica,2012,F,Bronze,6
+JAM,Jamaica,2016,F,Bronze,2
+JPN,Japan,1960,F,Bronze,1
+JPN,Japan,1964,F,Bronze,6
+JPN,Japan,1984,F,Bronze,15
+JPN,Japan,1988,F,Bronze,3
+JPN,Japan,1992,F,Bronze,6
+JPN,Japan,1994,F,Bronze,1
+JPN,Japan,1996,F,Bronze,11
+JPN,Japan,1998,F,Bronze,1
+JPN,Japan,2000,F,Bronze,8
+JPN,Japan,2002,F,Bronze,1
+JPN,Japan,2004,F,Bronze,17
+JPN,Japan,2008,F,Bronze,6
+JPN,Japan,2012,F,Bronze,23
+JPN,Japan,2014,F,Bronze,1
+JPN,Japan,2016,F,Bronze,20
+KAZ,Kazakhstan,1998,F,Bronze,1
+KAZ,Kazakhstan,2008,F,Bronze,2
+KAZ,Kazakhstan,2012,F,Bronze,1
+KAZ,Kazakhstan,2016,F,Bronze,6
+KEN,Kenya,2000,F,Bronze,1
+KEN,Kenya,2012,F,Bronze,1
+LAT,Latvia,2014,F,Bronze,1
+LIE,Liechtenstein,1976,F,Bronze,1
+LTU,Lithuania,2000,F,Bronze,3
+LTU,Lithuania,2016,F,Bronze,2
+MAS,Malaysia,2012,F,Bronze,1
+MEX,Mexico,1968,F,Bronze,1
+MEX,Mexico,2004,F,Bronze,1
+MEX,Mexico,2008,F,Bronze,2
+MEX,Mexico,2012,F,Bronze,3
+MDA,Moldova,2012,F,Bronze,1
+MGL,Mongolia,1992,F,Bronze,1
+MGL,Mongolia,2012,F,Bronze,1
+MAR,Morocco,2000,F,Bronze,1
+MAR,Morocco,2008,F,Bronze,1
+MOZ,Mozambique,1996,F,Bronze,1
+NED,Netherlands,1960,F,Bronze,1
+NED,Netherlands,1964,F,Bronze,4
+NED,Netherlands,1968,F,Bronze,3
+NED,Netherlands,1972,F,Bronze,2
+NED,Netherlands,1976,F,Bronze,2
+NED,Netherlands,1980,F,Bronze,4
+NED,Netherlands,1984,F,Bronze,13
+NED,Netherlands,1988,F,Bronze,17
+NED,Netherlands,1992,F,Bronze,4
+NED,Netherlands,1996,F,Bronze,18
+NED,Netherlands,2000,F,Bronze,16
+NED,Netherlands,2004,F,Bronze,19
+NED,Netherlands,2006,F,Bronze,1
+NED,Netherlands,2008,F,Bronze,2
+NED,Netherlands,2010,F,Bronze,1
+NED,Netherlands,2012,F,Bronze,16
+NED,Netherlands,2014,F,Bronze,4
+NED,Netherlands,2016,F,Bronze,2
+NZL,New Zealand,1964,F,Bronze,1
+NZL,New Zealand,1988,F,Bronze,3
+NZL,New Zealand,1992,F,Bronze,1
+NZL,New Zealand,2000,F,Bronze,1
+NZL,New Zealand,2012,F,Bronze,4
+NZL,New Zealand,2016,F,Bronze,2
+NGR,Nigeria,1992,F,Bronze,4
+NGR,Nigeria,1996,F,Bronze,2
+NGR,Nigeria,2008,F,Bronze,6
+PRK,North Korea,1972,F,Bronze,10
+PRK,North Korea,1992,F,Bronze,1
+PRK,North Korea,2000,F,Bronze,1
+PRK,North Korea,2008,F,Bronze,2
+PRK,North Korea,2012,F,Bronze,1
+PRK,North Korea,2016,F,Bronze,1
+NOR,Norway,1968,F,Bronze,1
+NOR,Norway,1972,F,Bronze,3
+NOR,Norway,1976,F,Bronze,1
+NOR,Norway,1980,F,Bronze,3
+NOR,Norway,1984,F,Bronze,2
+NOR,Norway,1992,F,Bronze,1
+NOR,Norway,1994,F,Bronze,1
+NOR,Norway,1996,F,Bronze,16
+NOR,Norway,1998,F,Bronze,7
+NOR,Norway,2000,F,Bronze,15
+NOR,Norway,2002,F,Bronze,2
+NOR,Norway,2006,F,Bronze,2
+NOR,Norway,2008,F,Bronze,1
+NOR,Norway,2010,F,Bronze,1
+NOR,Norway,2014,F,Bronze,5
+NOR,Norway,2016,F,Bronze,14
+POL,Poland,1932,F,Bronze,1
+POL,Poland,1936,F,Bronze,1
+POL,Poland,1956,F,Bronze,6
+POL,Poland,1960,F,Bronze,6
+POL,Poland,1964,F,Bronze,11
+POL,Poland,1968,F,Bronze,13
+POL,Poland,1972,F,Bronze,1
+POL,Poland,1980,F,Bronze,3
+POL,Poland,1988,F,Bronze,1
+POL,Poland,1992,F,Bronze,2
+POL,Poland,1996,F,Bronze,4
+POL,Poland,2000,F,Bronze,2
+POL,Poland,2004,F,Bronze,5
+POL,Poland,2006,F,Bronze,1
+POL,Poland,2008,F,Bronze,1
+POL,Poland,2010,F,Bronze,4
+POL,Poland,2012,F,Bronze,5
+POL,Poland,2016,F,Bronze,8
+POR,Portugal,1984,F,Bronze,1
+POR,Portugal,2000,F,Bronze,1
+POR,Portugal,2016,F,Bronze,1
+ROU,Romania,1956,F,Bronze,5
+ROU,Romania,1960,F,Bronze,8
+ROU,Romania,1964,F,Bronze,3
+ROU,Romania,1968,F,Bronze,6
+ROU,Romania,1972,F,Bronze,6
+ROU,Romania,1976,F,Bronze,7
+ROU,Romania,1980,F,Bronze,14
+ROU,Romania,1984,F,Bronze,7
+ROU,Romania,1988,F,Bronze,15
+ROU,Romania,1992,F,Bronze,3
+ROU,Romania,1996,F,Bronze,6
+ROU,Romania,2000,F,Bronze,9
+ROU,Romania,2004,F,Bronze,2
+ROU,Romania,2008,F,Bronze,15
+ROU,Romania,2012,F,Bronze,2
+ROU,Romania,2016,F,Bronze,9
+RUS,Russia,1994,F,Bronze,2
+RUS,Russia,1996,F,Bronze,11
+RUS,Russia,1998,F,Bronze,1
+RUS,Russia,2000,F,Bronze,29
+RUS,Russia,2002,F,Bronze,5
+RUS,Russia,2004,F,Bronze,27
+RUS,Russia,2006,F,Bronze,10
+RUS,Russia,2008,F,Bronze,19
+RUS,Russia,2010,F,Bronze,2
+RUS,Russia,2012,F,Bronze,15
+RUS,Russia,2014,F,Bronze,7
+RUS,Russia,2016,F,Bronze,22
+RUS,Russia-1,2010,F,Bronze,1
+RUS,Russia-1,2012,F,Bronze,2
+SRB,Serbia,2016,F,Bronze,13
+SCG,Serbia and Montenegro,1996,F,Bronze,1
+SGP,Singapore,2012,F,Bronze,4
+SVK,Slovakia,2012,F,Bronze,1
+SLO,Slovenia,1994,F,Bronze,2
+SLO,Slovenia,2004,F,Bronze,2
+SLO,Slovenia,2008,F,Bronze,1
+SLO,Slovenia,2010,F,Bronze,1
+SLO,Slovenia,2014,F,Bronze,2
+SLO,Slovenia,2016,F,Bronze,1
+RSA,South Africa,1932,F,Bronze,1
+RSA,South Africa,2000,F,Bronze,1
+RSA,South Africa,2012,F,Bronze,1
+KOR,South Korea,1976,F,Bronze,12
+KOR,South Korea,1984,F,Bronze,1
+KOR,South Korea,1988,F,Bronze,1
+KOR,South Korea,1992,F,Bronze,1
+KOR,South Korea,1994,F,Bronze,1
+KOR,South Korea,1996,F,Bronze,1
+KOR,South Korea,1998,F,Bronze,1
+KOR,South Korea,2000,F,Bronze,4
+KOR,South Korea,2004,F,Bronze,3
+KOR,South Korea,2008,F,Bronze,19
+KOR,South Korea,2010,F,Bronze,2
+KOR,South Korea,2012,F,Bronze,4
+KOR,South Korea,2014,F,Bronze,2
+KOR,South Korea,2016,F,Bronze,2
+KOR,South Korea-1,1992,F,Bronze,2
+KOR,South Korea-1,1996,F,Bronze,1
+KOR,South Korea-1,2000,F,Bronze,2
+KOR,South Korea-1,2004,F,Bronze,2
+KOR,South Korea-1,2016,F,Bronze,2
+URS,Soviet Union,1952,F,Bronze,5
+URS,Soviet Union,1956,F,Bronze,11
+URS,Soviet Union,1960,F,Bronze,8
+URS,Soviet Union,1964,F,Bronze,17
+URS,Soviet Union,1968,F,Bronze,20
+URS,Soviet Union,1972,F,Bronze,6
+URS,Soviet Union,1976,F,Bronze,27
+URS,Soviet Union,1980,F,Bronze,41
+URS,Soviet Union,1984,F,Bronze,4
+URS,Soviet Union,1988,F,Bronze,47
+URS,Soviet Union-2,1984,F,Bronze,2
+ESP,Spain,1992,F,Bronze,2
+ESP,Spain,1996,F,Bronze,4
+ESP,Spain,2000,F,Bronze,3
+ESP,Spain,2004,F,Bronze,2
+ESP,Spain,2008,F,Bronze,1
+ESP,Spain,2012,F,Bronze,24
+ESP,Spain,2016,F,Bronze,2
+SWE,Sweden,1948,F,Bronze,1
+SWE,Sweden,1972,F,Bronze,3
+SWE,Sweden,1984,F,Bronze,3
+SWE,Sweden,1992,F,Bronze,4
+SWE,Sweden,1996,F,Bronze,4
+SWE,Sweden,1998,F,Bronze,5
+SWE,Sweden,2000,F,Bronze,7
+SWE,Sweden,2002,F,Bronze,23
+SWE,Sweden,2004,F,Bronze,2
+SWE,Sweden,2006,F,Bronze,3
+SWE,Sweden,2010,F,Bronze,1
+SWE,Sweden,2014,F,Bronze,3
+SWE,Sweden,2016,F,Bronze,3
+SUI,Switzerland,1968,F,Bronze,2
+SUI,Switzerland,1980,F,Bronze,2
+SUI,Switzerland,1984,F,Bronze,1
+SUI,Switzerland,1988,F,Bronze,3
+SUI,Switzerland,1994,F,Bronze,1
+SUI,Switzerland,1998,F,Bronze,1
+SUI,Switzerland,2000,F,Bronze,1
+SUI,Switzerland,2002,F,Bronze,6
+SUI,Switzerland,2004,F,Bronze,1
+SUI,Switzerland,2008,F,Bronze,2
+SUI,Switzerland,2010,F,Bronze,1
+SUI,Switzerland,2014,F,Bronze,20
+SUI,Switzerland,2016,F,Bronze,2
+TJK,Tajikistan,2012,F,Bronze,1
+THA,Thailand,2000,F,Bronze,1
+THA,Thailand,2004,F,Bronze,3
+THA,Thailand,2012,F,Bronze,1
+THA,Thailand,2016,F,Bronze,1
+TUN,Tunisia,2016,F,Bronze,2
+TUR,Turkey,2000,F,Bronze,1
+TUR,Turkey,2016,F,Bronze,1
+UKR,Ukraine,1994,F,Bronze,1
+UKR,Ukraine,1996,F,Bronze,5
+UKR,Ukraine,2000,F,Bronze,6
+UKR,Ukraine,2004,F,Bronze,22
+UKR,Ukraine,2006,F,Bronze,1
+UKR,Ukraine,2008,F,Bronze,7
+UKR,Ukraine,2012,F,Bronze,9
+UKR,Ukraine,2014,F,Bronze,1
+UKR,Ukraine,2016,F,Bronze,2
+UKR,Ukraine-1,2006,F,Bronze,1
+EUN,Unified Team,1992,F,Bronze,32
+EUN,Unified Team-2,1992,F,Bronze,1
+USA,United States,1924,F,Bronze,2
+USA,United States,1928,F,Bronze,1
+USA,United States,1932,F,Bronze,1
+USA,United States,1948,F,Bronze,1
+USA,United States,1952,F,Bronze,2
+USA,United States,1956,F,Bronze,7
+USA,United States,1960,F,Bronze,2
+USA,United States,1964,F,Bronze,8
+USA,United States,1968,F,Bronze,11
+USA,United States,1972,F,Bronze,9
+USA,United States,1976,F,Bronze,19
+USA,United States,1980,F,Bronze,1
+USA,United States,1984,F,Bronze,24
+USA,United States,1988,F,Bronze,19
+USA,United States,1992,F,Bronze,50
+USA,United States,1994,F,Bronze,5
+USA,United States,1996,F,Bronze,9
+USA,United States,1998,F,Bronze,2
+USA,United States,2000,F,Bronze,29
+USA,United States,2002,F,Bronze,3
+USA,United States,2004,F,Bronze,36
+USA,United States,2006,F,Bronze,21
+USA,United States,2008,F,Bronze,23
+USA,United States,2010,F,Bronze,8
+USA,United States,2012,F,Bronze,26
+USA,United States,2014,F,Bronze,8
+USA,United States,2016,F,Bronze,33
+USA,United States-1,1964,F,Bronze,1
+USA,United States-1,1976,F,Bronze,1
+USA,United States-1,1988,F,Bronze,1
+USA,United States-1,2012,F,Bronze,1
+USA,United States-1,2016,F,Bronze,2
+USA,United States-2,2004,F,Bronze,2
+USA,United States-2,2010,F,Bronze,2
+USA,United States-2,2014,F,Bronze,2
+UZB,Uzbekistan,2008,F,Bronze,1
+VEN,Venezuela,2004,F,Bronze,1
+VEN,Venezuela,2008,F,Bronze,1
+VEN,Venezuela,2016,F,Bronze,1
+FRG,West Germany,1968,F,Bronze,5
+FRG,West Germany,1972,F,Bronze,16
+FRG,West Germany,1976,F,Bronze,4
+FRG,West Germany,1980,F,Bronze,1
+FRG,West Germany,1984,F,Bronze,21
+FRG,West Germany,1988,F,Bronze,5
+FRG,West Germany-1,1968,F,Bronze,1
+YUG,Yugoslavia,1980,F,Bronze,12
+YUG,Yugoslavia,1988,F,Bronze,3
+ZIM,Zimbabwe,2004,F,Bronze,1
