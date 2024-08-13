@@ -16,11 +16,11 @@ Project_Olympian
 
 | **Name** | **Email** | **Phone Number** |
 | --- | --- | --- |
-| Alvin Son | <alvinson17@gmail.com> | (714) 904-7155 |
+| Alvin Son | <alvinson17@gmail.com> | --- |
 | --- | --- | --- |
-| Dylan Devens | <dylandevens@yahoo.com> | 8189702645 |
+| Dylan Devens | <dylandevens@yahoo.com> | --- |
 | --- | --- | --- |
-| Addie Dehmlow | <aarondehmlow@yahoo.com> | 559-355-3920 |
+| Addie Dehmlow | <aarondehmlow@yahoo.com> | --- |
 | --- | --- | --- |
 |     |     |     |
 | --- | --- | --- |
@@ -70,6 +70,10 @@ List all possible databases you’ll use
   - Disaster data
 - Olympic History - Kaggle
   - <https://www.kaggle.com/code/ducninhvo/olympics-dataset-120-years-of-data/notebook#1.-Get-familiar-with-the-dataset>
+  - Organisation for Economic Co-operation and Development - datasets for all-cause mortality and air pollution, and personal wellbeing
+  - <https://www.oecd.org/en.html>
+  - World Bank Group Open Data
+  - <https://data.worldbank.org>
 
 ### **Tasks Breakdown**
 
