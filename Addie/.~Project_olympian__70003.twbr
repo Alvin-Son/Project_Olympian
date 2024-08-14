@@ -13761,20 +13761,19 @@ Affected Locations: 	<[federated.1dw7fdv0zh8mh118ylal51xaf10i].[none:Location:nk
             <zone h='2913' id='3' type-v2='title' w='98974' x='513' y='706' />
             <zone h='8914' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='98974' x='513' y='3619' />
             <zone h='86761' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='98974' x='513' y='12533'>
-              <flipboard active-id='1' nav-type='caption' show-nav-arrows='true'>
+              <flipboard active-id='3' nav-type='caption' show-nav-arrows='true'>
                 <story-points>
                   <story-point caption='olympic' captured-sheet='olympics' id='1'>
-                    <currentDeltas>
+                    <capturedDeltas>
                       <worksheet name='Map Medals'>
                         <style delta-type='added'>
                           <style-rule element='axis'>
-                            <encoding attr='space' class='0' field='[federated.1dw7fdv0zh8mh118ylal51xaf10i].[Latitude (generated)]' field-type='quantitative' max='13577078.967407512' min='757056.72511384264' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
-                            <encoding attr='space' class='0' field='[federated.1dw7fdv0zh8mh118ylal51xaf10i].[Longitude (generated)]' field-type='quantitative' max='6398784.6087006666' min='-16377904.32347271' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+                            <encoding attr='space' class='0' field='[federated.1dw7fdv0zh8mh118ylal51xaf10i].[Latitude (generated)]' field-type='quantitative' max='15954202.012794854' min='-8863803.6110056434' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+                            <encoding attr='space' class='0' field='[federated.1dw7fdv0zh8mh118ylal51xaf10i].[Longitude (generated)]' field-type='quantitative' max='22112771.548806183' min='-21980131.203373365' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
                           </style-rule>
                         </style>
                       </worksheet>
-                    </currentDeltas>
-                    <capturedDeltas />
+                    </capturedDeltas>
                   </story-point>
                   <story-point caption='gender' captured-sheet='gender' id='2'>
                     <capturedDeltas>
@@ -15547,7 +15546,7 @@ Affected Locations: 	<[federated.1dw7fdv0zh8mh118ylal51xaf10i].[none:Location:nk
         <viewpoint name='gdp growth' />
         <viewpoint name='gdp total' />
       </viewpoints>
-      <active id='4' />
+      <active id='-1' />
       <simple-id uuid='{AE71B16F-7F6E-4E1D-B3D6-C22463CDA90A}' />
     </window>
     <window class='dashboard' name='gov&apos;t overview'>
@@ -15599,7 +15598,7 @@ Affected Locations: 	<[federated.1dw7fdv0zh8mh118ylal51xaf10i].[none:Location:nk
     </window>
     <window class='dashboard' maximized='true' name='Story 1'>
       <viewpoints />
-      <active id='5' />
+      <active id='-1' />
       <simple-id uuid='{919DCA00-F0DB-405C-904F-267C544DA31B}' />
     </window>
   </windows>
