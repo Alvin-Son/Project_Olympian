@@ -75,8 +75,6 @@ def Selected_Dataset(table_name):
 
 def create_df(table, cols):
     temp_table = tables[table]
-
-    # response = session.query(temp_table.c[*cols]).all()
     print(cols[0])
     temp_list = [getattr(temp_table, c) for c in cols]
     response = session.query(*temp_list).all()
@@ -93,14 +91,7 @@ answers = inquirer.prompt([
         message = "Which table would you like to see? ",
         choices = Table_names()
     )
-    # (
-    #     "type":'list',
-    #     "name":"table_name",
-    #     "message":"Which table would you like to see? ",
-    #     "choices":Table_names()
-    # )
 ])
 
 selected_columns = Selected_Dataset(answers["Table_name"])
 create_df(answers["Table_name"], selected_columns)
-# print(answers)
