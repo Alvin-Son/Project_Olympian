@@ -12,13 +12,12 @@ import inquirer
 uri = "sqlite:///Project_olympian.sqlite"
 engine = create_engine(uri)
 conn = engine.connect()
-# Declare a Base using `automap_base()`
+
 Base = automap_base()
-# Use the Base class to reflect the database tables
+
 Base.prepare(autoload_with=engine)
 
 tables = dict(Base.classes)
-print(tables)
 
 Air_pollulants = Base.classes.Air_pollulants
 Armed_forces = Base.classes.Armed_forces
@@ -54,6 +53,8 @@ Tourism_expenditure = Base.classes.Tourism_expenditure
 Unemployment = Base.classes.Unemployment
 Wage_gap = Base.classes.Wage_gap
 Well_being_stats = Base.classes.Well_being_stats
+Model_merged_df = Base.classes.Model_merged_df
+
 
 session = Session(engine)
 
@@ -62,13 +63,13 @@ def Selected_Dataset(table_name):
     inspector = inspect(engine)
     columns = inspector.get_columns(table_name)
     print(f'Selected Dataset: {table_name}')
-    print("----------------")
-    print(" ")
-    print("Columns:")
-    print("-------")
+    # print("----------------")
+    # print(" ")
+    # print("Columns:")
+    # print("-------")
     cols = []
     for column in columns:
-        print(column['name'])
+        # print(column['name'])
         cols.append(column["name"])
 
     return cols
@@ -88,7 +89,7 @@ def Table_names():
 answers = inquirer.prompt([
     inquirer.List(
         "Table_name",
-        message = "Which table would you like to see? ",
+        message = "Which table would you like to see?",
         choices = Table_names()
     )
 ])
