@@ -98,6 +98,18 @@ def Continue(msg, cb):
     else:
         return
 
+def Continue_2(msg, cb):
+    questions = [
+    inquirer.Confirm("continue", message=msg),
+]
+
+    answers = inquirer.prompt(questions)
+
+    if answers["continue"] == True:
+        cb() 
+    else:
+        Continue(msg, cb)
+
 def table_query():
     answers = inquirer.prompt([
     inquirer.List(
@@ -114,3 +126,4 @@ print("Explaination")
 
 Continue("Would you like to continue?", table_query)
 
+# Continue_2("Do you want to pick a column?", Continue("Would you like to continue?", table_query))
